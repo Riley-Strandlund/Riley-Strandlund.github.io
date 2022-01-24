@@ -28,15 +28,11 @@
  text-align: left;
  height: auto;
   }
-.queenbullet{
-  font-size: 110%; 
-  padding-bottom: 3%;
-}
 .hombullet{
   font-size: 110%; 
   padding-bottom: 3%;
 }
-.three{
+.edu_box{
   animation-name: flip-flop;
   position: fixed;
   animation-duration: 20s;
