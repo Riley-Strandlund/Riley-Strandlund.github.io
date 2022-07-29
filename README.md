@@ -1,1 +1,1 @@
-# Riley-Strandlund.githun.io
+# Riley-Strandlund.github.io
